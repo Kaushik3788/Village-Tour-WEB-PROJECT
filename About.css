@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(108, 199, 108);
+}
+h1{
+    font-size: 500%;
+    text-align: center;
+    font-weight: 900;
+    background-color: rgb(178, 176, 34);
+}
+ strong{
+     padding-left: 37%;
+     font-size: 200%;
+     font-weight: 900;
+ }
