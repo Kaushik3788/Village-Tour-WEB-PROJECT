@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="B.css">
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Village Tour</title>
+    
+</head>
+<body>
+    
+    <header> 
+      <h1>
+      बनकट में आपका स्वागत है
+      
+      <h3> ||&nbspमेरा गाँव,मेरा घर || </h3>
+      </h1>
+      <br>
+      <br>
+      <br>
+
+       <div>
+        &nbsp &nbsp   &nbsp     
+        <a href="about.html"><button type="button">About</button></a>
+        
+        <a href="tourism.html"><button type="button">Toursism</button></a>
+                   
+        <a href="how to reach.html"><button type="button">How To Reach</button></a>
+                   
+        <a href="Images.html"><button type="button">Gallery</button></a>
+        
+        <a href="contact.html"><button type="button">Contact</button></a>
+                   
+</div>
+    
+    </header>
+ 
+     
+      <h2>Helpline Numbers
+      <ul>
+          <li>
+              Police = 100
+          </li>
+          <li>Hospital = 101</li>
+          <li>
+              Fire = 101
+          </li>
+      </ul>
+</h2>
+
+</body>
+</html>
