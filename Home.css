@@ -1,0 +1,60 @@
+h1{
+    font-size: 500%;
+    font-family: Bold;
+    font-style: normal;
+    padding-left: 15%;
+    padding-right: 15%;
+    padding-top: 15%;
+   
+    color:rgb(0, 114, 0);
+    text-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19); 
+}
+
+button{
+    text-decoration: grey;
+    cursor: pointer;
+    border-radius: 12px;
+    background-color: #82df86; 
+    font-size: 18px;
+    padding-left: 5%;
+    padding-right: 9%;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    -webkit-transition-duration:0.4s;
+    transition-duration: 0.3s
+    
+ } 
+button:hover{
+    background-color: darkgreen;
+}
+     
+body{
+     background-image: url("village-hut-indian-village-landscape-countryside-mud.jpg");
+     background-attachment:fixed;
+    background-size: 100%;
+    
+   }
+
+   h2{
+       padding-top: 10%;
+       padding-left: 67%;
+       font-size: 250%;
+       font-display:auto;
+       font-style:unset;
+       font-weight: 1000;
+       color: rgb(225, 254, 255);
+       box-sizing: border-box;
+   
+   }
+    ul{
+        padding-left: 7%;
+        font-size: 75%;
+        font-weight: 700;
+        color: honeydew;
+    }
+    
+    h3{
+        padding-left: 38%;
+text-align: left;
+font-size: 200%;
+color: rgb(108, 199, 108); ;
+    }
